@@ -1,0 +1,2 @@
+"""MNIST digit recognition package."""
+
